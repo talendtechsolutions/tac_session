@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_hlNJgVvfEeibgpxc3Qaf9g" label="tac_session" description="tac_session" language="java" technicalLabel="TAC_SESSION" creationDate="2018-05-20T08:31:25.000+0530" author="_hlNwkFvfEeibgpxc3Qaf9g" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/talendtechsolutions/tac_session.git&quot;,&quot;login&quot;:&quot;talendsolutions@gmail.com&quot;,&quot;passwd&quot;:&quot;PVabmAFXYDan9s8r1Lakuw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" reference="true" type="DI" bigData="false"/>
+  <TalendProperties:User xmi:id="_hlNwkFvfEeibgpxc3Qaf9g" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+</xmi:XMI>
