@@ -7,6 +7,19 @@
     <documentationStatus xmi:id="_5FDD0GNNEeijYeeBsaD-eQ" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_5FDD0WNNEeijYeeBsaD-eQ" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_5FDD0mNNEeijYeeBsaD-eQ" label="validated" code="VAL"/>
+    <ItemsRelations xmi:id="_1KF88GTIEeiOzuYLDzx1vQ">
+      <baseItem xmi:id="_1KF88WTIEeiOzuYLDzx1vQ" id="_Mho68GP0EeiP9OrHil2PgA" version="0.1" type="job"/>
+      <relatedItems xmi:id="_1KF88mTIEeiOzuYLDzx1vQ" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF882TIEeiOzuYLDzx1vQ" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF89GTIEeiOzuYLDzx1vQ" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF89WTIEeiOzuYLDzx1vQ" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF89mTIEeiOzuYLDzx1vQ" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF892TIEeiOzuYLDzx1vQ" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF8-GTIEeiOzuYLDzx1vQ" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF8-WTIEeiOzuYLDzx1vQ" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF8-mTIEeiOzuYLDzx1vQ" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_1KF8-2TIEeiOzuYLDzx1vQ" id="_ppk6cGP0EeiP9OrHil2PgA - metadata" version="Latest" type="schema"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_5BqYoGNNEeijYeeBsaD-eQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5BqYoWNNEeijYeeBsaD-eQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_5Bq_sGNNEeijYeeBsaD-eQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
